@@ -40,7 +40,6 @@ async function verify(contractAddress, args) {
       console.log("Already Verified!")
     } else console.log(e)
   }
-
 }
 
 main().then(() => process.exit(0)).catch((error) => {
