@@ -37,6 +37,5 @@ module.exports = {
     currency: "INR",
     // coinmarketcap: COINMARKETCAP_API_KEY,
     token: "MATIC",
-
   }
 };
